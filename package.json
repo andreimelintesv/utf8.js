@@ -36,7 +36,7 @@
 	"devDependencies": {
 		"coveralls": "^2.11.14",
 		"istanbul": "^0.4.5",
-		"qunit-extras": "^1.4.2",
+		"qunit-extras": "^3.0.0",
 		"qunitjs": "~1.11.0"
 	}
 }
